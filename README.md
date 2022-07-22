@@ -7,20 +7,12 @@
 </div>
 
 ### 👨🏻‍💻 Tecnologias que utilizo:
-<div style="display: inline_block"> 
-<!--   <img src="https://img.icons8.com/dusk/64/undefined/html-5.png"/>
-  <img src="https://img.icons8.com/dusk/64/undefined/css3.png"/>
-  <img src="https://img.icons8.com/dusk/64/undefined/javascript-logo.png"/>
-  <img src="https://img.icons8.com/dusk/64/undefined/react.png"/> -->
-  
-  <img width="65" src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e471s3tok2zr2vvvpqv07qhbiihutv824szdy56dx4v&rid=giphy.gif&ct=s"/>
-  <img width="65" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=790b7611d255f4e4463830af34cedd553551bff901d1b6df&rid=giphy.gif&ct=s"/>
-  <img width="60" src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e470mrhq9y4g5vvtqbxdvflrmxnjguihuxrvttgs47s&rid=giphy.gif&ct=s"/>
-  <img width="60" src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47ryp7nbxlj7zgcl6styotk9kkk13nvu7ggm1n3unq&rid=giphy.gif&ct=s"/>
-  <img width="65" src="https://i.stack.imgur.com/C9301.png](https://icons.getbootstrap.com/assets/img/icons-hero.png)"/>
-  <img width="95" src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47ko949hs5gkz9ylnsdr676wm6pf16fpnha58t4e0w&rid=giphy.gif&ct=s"/>
-  <img width="45" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e47fbpp4sngy0gdd5b85ynxcgs7fpw2yf4ynrnjyx3q&rid=giphy.gif&ct=s"/>
-</div>   
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
  
  <br>
  
